@@ -9,4 +9,4 @@ sudo chmod 777 ./noetic_install.sh
 ./noetic_install.sh
 
 
-wget -c https://github.com/hoa0202/noetic_install.git && cd noetic_install && chmod +x ./noetic_install.sh && ./noetic_install.sh
+git clone https://github.com/hoa0202/noetic_install.git && cd noetic_install && chmod +x ./noetic_install.sh && ./noetic_install.sh
